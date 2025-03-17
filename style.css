@@ -1,0 +1,12 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#header{
+    
+    background-color: aquamarine;
+    height: 100px;
+}
+#links{
+float: right;
+padding-right: 75px ;
+}
